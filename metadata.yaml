@@ -1,0 +1,31 @@
+_repo: Game-Birds-and-Game-Fishes-of-the-Pacific-Coast_38032
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38032-h/images/cover.png
+creator:
+  author:
+    agent_name: Payne, Harry Thom
+    birthdate: 1844
+    gutenberg_agent_id: '39213'
+    url: http://www.gutenberg.org/2009/agents/39213
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+- Animals-Wild-Trapping
+- Animals-Wild-Birds
+gutenberg_issued: '2011-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38032'
+  lccn: '14001685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Game and game-birds -- Pacific Coast'
+title: Game Birds and Game Fishes of the Pacific Coast
+url: http://www.gutenberg.org/ebooks/38032
